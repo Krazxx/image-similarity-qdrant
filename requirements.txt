@@ -1,0 +1,6 @@
+sentence-transformers
+torch
+torchvision
+pillow
+qdrant-client
+matplotlib
